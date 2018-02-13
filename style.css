@@ -1,0 +1,10 @@
+h1 {
+    font-family: Arial;
+    font-size:26px;
+    text-decoration: underline;
+    text-align: center;
+}
+.One {
+    display: inline;
+    margin: 14px;
+}
